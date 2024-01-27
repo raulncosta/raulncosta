@@ -1,7 +1,7 @@
 ### Hello, Raul here!
 
-- 🔭 I'm migrating to the data science field
-- 🌱 I'm always looking to learn about different areas and improve my knowledge.
+- 🤖 I'm migrating to the data science field
+- 📖 I'm always looking to learn about different areas and improve my knowledge.
 
 <div>
   <a href="https://github.com/raulncosta">
@@ -10,6 +10,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
 </div>
   
   ##
