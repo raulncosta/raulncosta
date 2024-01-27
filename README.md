@@ -1,7 +1,7 @@
 ### Hello, Raul here!
 
 - 🔭 I'm migrating to the data science field
-- 🌱 I’m currently learning machine learning
+- 🌱 I'm always looking to learn about different areas and improve my knowledge.
 
 <div>
   <a href="https://github.com/raulncosta">
