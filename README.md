@@ -1,6 +1,6 @@
 ### Hello, Raul here!
 
-- 🤖 I'm migrating to the data science field
+- 🤖 I'm migrating to the data science field;
 - 📖 I'm always looking to learn about different areas and improve my knowledge.
 
 <div>
